@@ -1,2 +1,1 @@
-# Leetcode
-Daily streaks
+# Leetcode submission
