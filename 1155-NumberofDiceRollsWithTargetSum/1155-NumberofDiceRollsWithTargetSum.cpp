@@ -1,10 +1,15 @@
-    int numRollsToTarget(int d, int f, int target, int res = 0) {
-    if (d == 0 || target <= 0) return d == target;
-    if (dp[d][target]) return dp[d][target] - 1;
-    for (auto i = 1; i <= f; ++i)
-        res = (res + numRollsToTarget(d - 1, f, target - i)) % 1000000007;
-    dp[d][target] = res + 1;
-    return res;
-    }
-};
+        int total = 0;
+        }
+
+            return dp[n][target];
+        if (dp[n][target] != -1) {
+
+        
+        if (n == 0 || target <= 0) return n == target;
+    int solve(int n, int target, int k, vector<vector<int>>& dp) {
+        for (int i = 1; i <= k; i++) {
+            total = (total + solve(n - 1, target - i, k, dp)) % MOD;
+        }
+
+    const int MOD = 1e9 + 7; // Modulo value
 1
