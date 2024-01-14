@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& graph, vector<vector<int>>& allpaths,      vector<int>& path, int cur) {
+    void dfs(vector<vector<int>>& graph, vector<vector<int>>& allpaths, vector<int>& path, int cur) {
         path.push_back(cur);
         if (cur == graph.size() - 1)
             allpaths.push_back(path);
