@@ -35,6 +35,7 @@
 # Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/PRATHAM2107/Leetcode/tree/master/0198-house-robber) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRATHAM2107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 # Binary Search
 |  |
@@ -48,3 +49,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/PRATHAM2107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/PRATHAM2107/Leetcode/tree/master/0198-house-robber) |
