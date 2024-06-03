@@ -32,3 +32,19 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PRATHAM2107/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+# Array
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/PRATHAM2107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+# Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/PRATHAM2107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+# Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/PRATHAM2107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+# Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/PRATHAM2107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
