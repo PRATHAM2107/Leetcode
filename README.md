@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/PRATHAM2107/Leetcode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/PRATHAM2107/Leetcode/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/PRATHAM2107/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -35,10 +36,12 @@
 | [0141-linked-list-cycle](https://github.com/PRATHAM2107/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0409-longest-palindrome](https://github.com/PRATHAM2107/Leetcode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/PRATHAM2107/Leetcode/tree/master/1044-find-common-characters) |
 # Array
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/PRATHAM2107/Leetcode/tree/master/0198-house-robber) |
+| [1044-find-common-characters](https://github.com/PRATHAM2107/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRATHAM2107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 # Binary Search
 |  |
