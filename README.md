@@ -73,4 +73,16 @@
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/PRATHAM2107/Leetcode/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/PRATHAM2107/Leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/PRATHAM2107/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
