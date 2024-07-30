@@ -59,3 +59,18 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/PRATHAM2107/Leetcode/tree/master/0198-house-robber) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+<!---LeetCode Topics End-->
