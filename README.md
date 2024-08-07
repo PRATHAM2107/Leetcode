@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/PRATHAM2107/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -104,4 +105,12 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PRATHAM2107/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/PRATHAM2107/Leetcode/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/PRATHAM2107/Leetcode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
