@@ -69,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -108,9 +109,18 @@
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/PRATHAM2107/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/PRATHAM2107/Leetcode/tree/master/0273-integer-to-english-words) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
