@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/PRATHAM2107/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0592-fraction-addition-and-subtraction](https://github.com/PRATHAM2107/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/PRATHAM2107/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0592-fraction-addition-and-subtraction](https://github.com/PRATHAM2107/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/PRATHAM2107/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
