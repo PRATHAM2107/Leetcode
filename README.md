@@ -76,11 +76,13 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PRATHAM2107/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PRATHAM2107/Leetcode/tree/master/0015-3sum) |
+| [0496-next-greater-element-i](https://github.com/PRATHAM2107/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PRATHAM2107/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PRATHAM2107/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0496-next-greater-element-i](https://github.com/PRATHAM2107/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/PRATHAM2107/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/PRATHAM2107/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
