@@ -85,6 +85,7 @@
 | [0015-3sum](https://github.com/PRATHAM2107/Leetcode/tree/master/0015-3sum) |
 | [0496-next-greater-element-i](https://github.com/PRATHAM2107/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1325-path-with-maximum-probability](https://github.com/PRATHAM2107/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PRATHAM2107/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PRATHAM2107/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/PRATHAM2107/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Simulation
 |  |
 | ------- |
@@ -147,4 +149,12 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PRATHAM2107/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/PRATHAM2107/Leetcode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/PRATHAM2107/Leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
