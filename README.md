@@ -88,6 +88,7 @@
 | [0503-next-greater-element-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1325-path-with-maximum-probability](https://github.com/PRATHAM2107/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRATHAM2107/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PRATHAM2107/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PRATHAM2107/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PRATHAM2107/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -117,6 +118,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PRATHAM2107/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PRATHAM2107/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/PRATHAM2107/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PRATHAM2107/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PRATHAM2107/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Monotonic Stack
 |  |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRATHAM2107/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PRATHAM2107/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
