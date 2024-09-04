@@ -1,15 +1,11 @@
-        int d = 0; 
-        int dist = 0;
-
-            st.insert({x[0], x[1]});
+                    dist = max(dist, x * x + y * y);
+                }
+            }
         }
-
-        int x = 0, y = 0;
-class Solution {
-public:
-    int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-set<pair<int, int>> st;
-        for(auto x : obstacles) {
+        
+        return dist;
+    }
+};
 [
 [4,-1,3]
 []
