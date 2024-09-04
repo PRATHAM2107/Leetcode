@@ -1,7 +1,7 @@
 class Solution {
 public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-set<pair<int, int>> st;
+        set<pair<int, int>> st;
         for(auto x : obstacles) {
             st.insert({x[0], x[1]});
         }
