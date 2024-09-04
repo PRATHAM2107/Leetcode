@@ -87,6 +87,7 @@
 | [0015-3sum](https://github.com/PRATHAM2107/Leetcode/tree/master/0015-3sum) |
 | [0496-next-greater-element-i](https://github.com/PRATHAM2107/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0906-walking-robot-simulation](https://github.com/PRATHAM2107/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/PRATHAM2107/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRATHAM2107/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PRATHAM2107/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/PRATHAM2107/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0906-walking-robot-simulation](https://github.com/PRATHAM2107/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRATHAM2107/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/PRATHAM2107/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/PRATHAM2107/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PRATHAM2107/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PRATHAM2107/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PRATHAM2107/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
