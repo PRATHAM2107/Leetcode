@@ -1,24 +1,13 @@
-            return 0;
-        }
+                }
+                string curr = s.substr(i, j - i + 1);
+                if (st.count(curr)) {
+                    dp[i] = min(dp[i], dp[j + 1]);
+            dp[i] = 1 + dp[i + 1];
 
-        if(dp[i] != -1) {
-            return dp[i];
-        }
+            for (int j = i; j < n; j++) {
+        dp[n] = 0;
 
-        int result = 1 + solve(i+1, s, st, n);
-
-        for(int j = i; j < n; j++) {
-            string curr = s.substr(i, j-i+1);
-            if(st.count(curr)) {
-                result = min(result, solve(j+1, s, st, n));
-            }
-        }
-
-    int dp[51];
-    int solve(int i, string& s, unordered_set<string>& st, int &n) {
-        if(i >= n) {
-class Solution {
-public:
+        for (int i = n - 1; i >= 0; i--) {
 "
 "leetscode"
 ["leet","code","leetcode"]
