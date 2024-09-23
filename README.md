@@ -68,12 +68,14 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/PRATHAM2107/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PRATHAM2107/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/PRATHAM2107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PRATHAM2107/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PRATHAM2107/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/PRATHAM2107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/PRATHAM2107/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PRATHAM2107/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PRATHAM2107/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/PRATHAM2107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PRATHAM2107/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
@@ -140,6 +143,7 @@
 | [0496-next-greater-element-i](https://github.com/PRATHAM2107/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/PRATHAM2107/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRATHAM2107/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2755-extra-characters-in-a-string](https://github.com/PRATHAM2107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -190,4 +194,8 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/PRATHAM2107/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Trie
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/PRATHAM2107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
