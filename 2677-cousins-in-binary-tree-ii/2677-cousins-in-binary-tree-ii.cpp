@@ -14,7 +14,11 @@ public:
     void dfs(TreeNode* root, int lvl, vector<int> &sums) {
         if (!root) return;
 
-        sums[lvl] += root->val; 
+        if(lvl>=sums.size())
+            sums.push_back(root->val);
+        else
+            sums[lvl] += root->val; 
+            
         dfs(root->left, lvl + 1, sums); 
         dfs(root->right, lvl + 1, sums); 
     }
@@ -38,7 +42,7 @@ public:
     TreeNode* replaceValueInTree(TreeNode* root) {
         if (!root) 
             return nullptr;
-        vector<int> sums(1000000, 0);
+        vector<int> sums;
         dfs(root, 0, sums);
         // for(int i: sums) cout<<i<<endl;
         dfs2(root, 0, sums, 0);
