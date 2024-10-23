@@ -1,17 +1,16 @@
-    void dfs2(TreeNode* root, int lvl, vector<int> &sums, int bro) {
+                    sum += node->right->val;
+                }
+            }
+
+            for (auto node : nodes) {
+                int t = sum;
+                if (node->left) t -= node->left->val;
+                if (node->right) t -= node->right->val;
+                if (node->left) node->left->val = t;
+                if (node->right) node->right->val = t;
+            }
+        }
+
+        return root;
     }
-
-            sums[lvl] += root->val; 
-        dfs(root->left, lvl + 1, sums); 
-        dfs(root->right, lvl + 1, sums); 
-        if (!root) return;
-
-        root->val = sums[lvl] - (root->val + bro); 
-
-        int rightbro = root->right ? root->right->val : 0;
-        int leftbro = root->left ? root->left->val : 0; 
-
-            
-        if (root->left) 
-            dfs2(root->left, lvl + 1, sums, rightbro); 
-        
+};
